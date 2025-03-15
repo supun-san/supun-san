@@ -13,7 +13,7 @@
   
 -  🔍 Always exploring new technologies and optimizing software solutions
    
--  📌 Open to new opportunities & freelance projects | Let’s connect!
+-  📌 Open to new opportunities & freelance projects | **Let’s connect!**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supun-san" alt="supun-san" /></a> </p>
 
