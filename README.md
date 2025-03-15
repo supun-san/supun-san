@@ -1,7 +1,18 @@
 <h1 align="center">Hi 👋, I'm Supun Sandeepa</h1>
 <h3 align="center">A passionate Java backend developer from Sri Lanka, specializing in scalable applications</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=supun-san&label=Profile%20views&color=0e75b6&style=flat" alt="supun-san" /> </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Freelance-Available-brightgreen?style=flat&logo=freelancer" alt="Freelance Available" style="display: inline;" />
+  <a href="https://github.com/supun-san">
+    <img src="https://komarev.com/ghpvc/?username=supun-san&label=Profile%20views&color=0e75b6&style=flat" alt="supun-san" style="display: inline;" />
+  </a>
+</p>
+
+-  💡 Passionate about designing and developing scalable, high-performance applications
+  
+-  🔍 Always exploring new technologies and optimizing software solutions
+   
+-  📌 Open to new opportunities & freelance projects | Let’s connect!
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supun-san" alt="supun-san" /></a> </p>
 
