@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Supun Sandeepa</h1>
+<h1 align="left">Hi 👋🏻, I'm Supun Sandeepa</h1>
 <h3 align="left">A passionate Java backend developer from Sri Lanka, specializing in scalable applications</h3>
 
 
