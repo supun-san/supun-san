@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Supun Sandeepa</h1>
-<h3 align="center">A passionate Java backend developer from Sri Lanka, specializing in scalable applications</h3>
+<h1 align="left">Hi 👋, I'm Supun Sandeepa</h1>
+<h3 align="left">A passionate Java backend developer from Sri Lanka, specializing in scalable applications</h3>
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Freelance-Available-brightgreen?style=flat&logo=freelancer" alt="Freelance Available" style="display: inline;" />
