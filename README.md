@@ -11,8 +11,9 @@
 
 ### 🏆 GitHub Achievements
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=supun-san&margin-w=5&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=supun-san)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=supun-san&theme=dark)
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=supun-san&theme=dracula&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=supun-san&theme=algolia&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=supun-san&theme=radical&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 🔭 I’m currently working on **Microservices with Spring Boot 3**
