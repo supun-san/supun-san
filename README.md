@@ -36,8 +36,8 @@
 ## 🧑‍💻 My Development Journey
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=supun-san&show_icons=true&locale=en&theme=default" width="380"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supun-san&theme=default" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=supun-san&show_icons=true&locale=en&theme=default" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supun-san&theme=default" width="420">
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=supun-san&show_icons=true&locale=en&layout=compact&theme=default)
