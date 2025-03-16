@@ -35,8 +35,8 @@
 
 ## 🧑‍💻 My Development Journey
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=supun-san&show_icons=true&locale=en&theme=default_width=400) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=supun-san&show_icons=true&locale=en&layout=compact&theme=default_width=400)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=supun-san&theme=default) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=supun-san&show_icons=true&locale=en&theme=default_width=300) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=supun-san&theme=default_width=300) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=supun-san&show_icons=true&locale=en&layout=compact&theme=default_width=400)
 
 
 
